@@ -17,4 +17,4 @@ Projeto construído no Evento Next Level Week da Rocketseat.
 
 ## Contato
 
-hudsonrikelme@hotmail.coms
+hudsonrikelme@hotmail.com
